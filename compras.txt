@@ -1,2 +1,3 @@
 {"id_cliente": 182, "fecha": "2024-07-06", "monto": 22500.0, "puntos_acumulados": 225}
 {"id_cliente": 182, "fecha": "2024-07-06", "monto": 90000.0, "puntos_acumulados": 900}
+{"id_cliente": 537, "fecha": "2006-08-24", "monto": 24444.0, "puntos_acumulados": 244}

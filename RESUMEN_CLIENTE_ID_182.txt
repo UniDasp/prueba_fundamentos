@@ -1,0 +1,5 @@
+ID CLIENTE: 182
+Fecha de Compra: 2024-07-06 	 Monto Total: $22500.0 	 Puntos: 225
+Fecha de Compra: 2024-07-06 	 Monto Total: $90000.0 	 Puntos: 900
+
+PUNTOS TOTALES A CANJEAR: 1125 pesos
